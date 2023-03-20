@@ -129,7 +129,8 @@ Create a copy of the DataFrame with the PCA data, and then add a new column to s
 
 Using hvPlot, create a scatter plot by setting x="PC1" and y="PC2". Color the graph points with the labels that you found by using K-means. Then add the crypto name to the hover_cols parameter to identify the cryptocurrency that each data point represents. (4 points)
 ![image](https://user-images.githubusercontent.com/12514249/226410103-8631f0e7-cd59-4da0-8977-6e92ecc85fcd.png)
-![image](https://user-images.githubusercontent.com/12514249/226410239-7c72880e-36f1-459a-95b2-364ceda6a968.png)
+![image](https://user-images.githubusercontent.com/12514249/226411211-3732f41e-ed84-4044-b29f-2250e2862ab1.png)
+
 
 
 # References
